@@ -1,0 +1,27 @@
+pyaudio installation error:
+
+Try this to solve the error 
+go to this link:"https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio"
+-->
+Check either you have 32 bit or 64 bit python and Download the correct version  
+$
+PyAudio: bindings for the PortAudio library.
+Includes ASIO, DS, WMME, WASAPI, WDMKS support.
+PyAudio‑0.2.11‑cp310‑cp310‑win_amd64.whl
+PyAudio‑0.2.11‑cp310‑cp310‑win32.whl
+PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl (I installed)
+PyAudio‑0.2.11‑cp39‑cp39‑win32.whl
+PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl
+PyAudio‑0.2.11‑cp38‑cp38‑win32.whl
+PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
+PyAudio‑0.2.11‑cp37‑cp37m‑win32.whl
+PyAudio‑0.2.11‑cp36‑cp36m‑win_amd64.whl
+PyAudio‑0.2.11‑cp36‑cp36m‑win32.whl
+PyAudio‑0.2.11‑cp35‑cp35m‑win_amd64.whl
+PyAudio‑0.2.11‑cp35‑cp35m‑win32.whl
+PyAudio‑0.2.11‑cp34‑cp34m‑win_amd64.whl
+PyAudio‑0.2.11‑cp34‑cp34m‑win32.whl
+PyAudio‑0.2.11‑cp27‑cp27m‑win_amd64.whl
+PyAudio‑0.2.11‑cp27‑cp27m‑win32.whl
+$
+Copy it to the project folder...
