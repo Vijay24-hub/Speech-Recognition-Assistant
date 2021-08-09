@@ -1,6 +1,8 @@
 """
 @author: Vijay
 """
+# Python version -- 3.9.5
+# pip version -- 21.2.3 
 """
 Using python 
 Created Speech recognition assistant 
